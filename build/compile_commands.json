@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/Main.cpp.o -c /home/jeremie/OpenGL/projet1/src/Main.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/Main.cpp"
+},
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/graphic/SDLWindowManager.cpp.o -c /home/jeremie/OpenGL/projet1/src/graphic/SDLWindowManager.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/graphic/SDLWindowManager.cpp"
+},
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/graphic/Shader.cpp.o -c /home/jeremie/OpenGL/projet1/src/graphic/Shader.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/graphic/Shader.cpp"
+},
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/object/Sphere.cpp.o -c /home/jeremie/OpenGL/projet1/src/object/Sphere.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/object/Sphere.cpp"
+},
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/object/Vertex.cpp.o -c /home/jeremie/OpenGL/projet1/src/object/Vertex.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/object/Vertex.cpp"
+},
+{
+  "directory": "/home/jeremie/OpenGL/projet1/build",
+  "command": "/bin/g++-9   -I/home/jeremie/OpenGL/projet1/include -isystem /home/jeremie/OpenGL/projet1/libs/include  -g   -g -O3 -std=c++17 -Wall -Wextra -Wno-unused-parameter -Wno-shadow -o CMakeFiles/interpollation.dir/src/tool/Program.cpp.o -c /home/jeremie/OpenGL/projet1/src/tool/Program.cpp",
+  "file": "/home/jeremie/OpenGL/projet1/src/tool/Program.cpp"
+}
+]
