@@ -67,7 +67,6 @@ int main(int argc, char *argv[]) {
 
     bool done = false;
 
-    sphere.update();
     camera::Camera camera{};
     camera.setProjMatrix(70.0f, window_width, window_height);
     camera.setPosition(0.0f, 0.0f, 5.0f);
